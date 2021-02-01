@@ -15628,4 +15628,20 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\NicolettaMonegain\\Documents\\GitHub\\IC-Stars-NM-C47\\Night School Projects and Activities\\WebApp1\\P
+      "FilePath": "c:\\Users\\NicolettaMonegain\\Documents\\GitHub\\IC-Stars-NM-C47\\Night School Projects and Activities\\WebApp1\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\NicolettaMonegain\\Documents\\GitHub\\IC-Stars-NM-C47\\Night School Projects and Activities\\WebApp1\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\NicolettaMonegain\\Documents\\GitHub\\IC-Stars-NM-C47\\Night School Projects and Activities\\WebApp1\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

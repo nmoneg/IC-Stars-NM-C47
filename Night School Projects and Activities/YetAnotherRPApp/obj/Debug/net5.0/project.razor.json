@@ -15653,4 +15653,15 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\NicolettaMonegain\\Documents\\GitHub\\IC-S
+      "FilePath": "c:\\Users\\NicolettaMonegain\\Documents\\GitHub\\IC-Stars-NM-C47\\Night School Projects and Activities\\YetAnotherRPApp\\Pages\\Movies\\Edit.cshtml",
+      "TargetPath": "Pages\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\NicolettaMonegain\\Documents\\GitHub\\IC-Stars-NM-C47\\Night School Projects and Activities\\YetAnotherRPApp\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
